@@ -1,0 +1,16 @@
+{"level":"info","message":{"params":{"email":"asdlksaldasdsakas@gmail.com"},"query":"SELECT * FROM users WHERE email = :email"},"timestamp":"2023-06-03T20:34:53.499Z"}
+{"level":"info","message":{"params":{"id":21},"query":"SELECT * FROM users WHERE id = :id"},"timestamp":"2023-06-03T20:34:53.507Z"}
+{"level":"info","message":{"params":{"email":"asdmskadsa@gmail.com"},"query":"SELECT * FROM users WHERE email = :email"},"timestamp":"2023-06-03T20:36:48.052Z"}
+{"level":"info","message":{"params":{"email":"asdmskadsa@gmail.com"},"query":"SELECT * FROM users WHERE email = :email"},"timestamp":"2023-06-03T20:36:59.542Z"}
+{"level":"info","message":{"params":{"id":22},"query":"SELECT * FROM users WHERE id = :id"},"timestamp":"2023-06-03T20:36:59.548Z"}
+{"level":"info","message":{"params":{"email":"asdmskadsaas@gmail.com"},"query":"SELECT * FROM users WHERE email = :email"},"timestamp":"2023-06-03T20:37:43.281Z"}
+{"level":"info","message":{"params":{"id":23},"query":"SELECT * FROM users WHERE id = :id"},"timestamp":"2023-06-03T20:37:43.289Z"}
+{"level":"info","message":{"params":{"password":"123123","username":"EmreAkgoz"},"query":"SELECT * FROM users WHERE username = :username && password = :password"},"timestamp":"2023-06-03T20:39:20.471Z"}
+{"level":"info","message":{"params":{"email":"eesseerree@gmail.com"},"query":"SELECT * FROM users WHERE email = :email"},"timestamp":"2023-06-03T20:42:29.002Z"}
+{"level":"info","message":{"params":{"id":24},"query":"SELECT * FROM users WHERE id = :id"},"timestamp":"2023-06-03T20:42:29.011Z"}
+{"level":"info","message":{"params":{"email":"asdasasdq@gmail.com"},"query":"SELECT * FROM users WHERE email = :email"},"timestamp":"2023-06-03T20:46:15.850Z"}
+{"level":"info","message":{"params":{"id":25},"query":"SELECT * FROM users WHERE id = :id"},"timestamp":"2023-06-03T20:46:15.858Z"}
+{"level":"info","message":{"params":{"email":"ZXxzcxz@gmail.com"},"query":"SELECT * FROM users WHERE email = :email"},"timestamp":"2023-06-03T20:47:20.725Z"}
+{"level":"info","message":{"params":{"id":26},"query":"SELECT * FROM users WHERE id = :id"},"timestamp":"2023-06-03T20:47:20.734Z"}
+{"level":"info","message":{"params":{"email":"zxcxzc@gmail.com"},"query":"SELECT * FROM users WHERE email = :email"},"timestamp":"2023-06-03T20:53:16.289Z"}
+{"level":"info","message":{"params":{"id":27},"query":"SELECT * FROM users WHERE id = :id"},"timestamp":"2023-06-03T20:53:16.294Z"}
